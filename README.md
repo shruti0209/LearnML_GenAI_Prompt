@@ -1,7 +1,10 @@
-# **LearnML_GenAI_Prompt**
+# **Prompts Using Gen AI**
 Generating Prompt Using a Gen AI Platform 
 
+
+
 ### Gen AI Plantform Used: **Chat GPT** 
+
 
 
 ## **Descriptive Prompt** 
@@ -19,6 +22,7 @@ Generating Prompt Using a Gen AI Platform
 **Accuracy:** The response seemed fairly accurate for the most part. There were some roles like ‘Data Product Manager’ that I have never heard of before and I am not sure how they differ from traditional Product Manager roles. Similarly, it mentioned ‘Data Scientist’ and ‘Product Data Scientist’ as two different roles but the difference wasn’t very clear. These subtle differences make me doubt the accuracy of those couple of roles and it would require additional click-down (reprompting) to understand better 
 
 
+
 ## **Question Prompt** 
 
 ![Financial Management Prompt](https://github.com/shruti0209/LearnML_GenAI_Prompt/blob/main/Prompts/Financial%20Management%20Prompt.png) 
@@ -32,6 +36,7 @@ Generating Prompt Using a Gen AI Platform
 **Creativity:** The response lacked depth and felt very basic question-answer type 
 
 **Accuracy:** The response seemed fairly accurate with my limited knowledge in the domain 
+
 
 
 ## **Example Prompt** 
